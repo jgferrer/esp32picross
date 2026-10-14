@@ -1,0 +1,24 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# VSCode
+.vscode/*
+!.vscode/extensions.json
+
+# Clang / IntelliSense
+compile_commands.json
+.clangd/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
