@@ -12,7 +12,17 @@ Diseñado específicamente para controlarse de forma táctil mediante **lápiz (
 
 ---
 
-## 📸 Características Destacadas
+## 📸 Capturas de Pantalla
+
+<div align="center">
+  <img src="docs/screenshots/screenshot_menu.png" width="220" alt="Selector de Puzzles" />
+  <img src="docs/screenshots/screenshot_gameplay.png" width="220" alt="Tablero en Juego con Pistas" />
+  <img src="docs/screenshots/screenshot_victory.png" width="220" alt="Revelación de Pixel Art a Color" />
+</div>
+
+---
+
+## ✨ Características Destacadas
 
 - ✏️ **Control Preciso con Lápiz Táctil (*Stylus*):**
   - **■ Modo Pintar:** Rellena píxeles o arrastra el lápiz para pintar líneas completas sin despegar el puntero.
